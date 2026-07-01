@@ -27,22 +27,6 @@ AI Engineer passionate about building production-oriented AI applications using 
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-Python • SQL • Java
-
-### AI / Machine Learning
-Machine Learning • Computer Vision • NLP • Scikit-learn • PyTorch • OpenCV • InsightFace • FAISS • Semantic Search • Transformer Embeddings
-
-### Backend
-FastAPI • Flask • REST APIs
-
-### Deployment & Tools
-Docker • Git • GitHub • Render • Netlify • Hugging Face
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: **karanshihire1@gmail.com**
