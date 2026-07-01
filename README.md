@@ -1,6 +1,6 @@
 # Hi, I'm Karan Shihire 👋
 
-AI Engineer passionate about building production-oriented AI applications using **Python, FastAPI, Computer Vision, NLP, Semantic Search, and Machine Learning**.
+AI Engineer building production-ready AI applications using Python, FastAPI, Computer Vision, NLP, Semantic Search, and Machine Learning.
 
 ## 🚀 Featured Projects
 
