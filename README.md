@@ -33,5 +33,4 @@ AI Engineer passionate about building production-oriented AI applications using 
 
 💼 LinkedIn:https://www.linkedin.com/in/karan-singh-shihire-5292a5283/
 
-🌐 Portfolio: *(Add your Portfolio URL once deployed)*<!--
-**karan95427/karan95427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Portfolio:
