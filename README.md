@@ -9,7 +9,7 @@ AI Engineer passionate about building production-oriented AI applications using 
 - Transformer embeddings + FAISS vector search
 - Hybrid retrieval and reranking pipeline
 - FastAPI backend with REST APIs
-- Live Deployment on Render
+- Live Deployment on Netlify + Railway
 
 ### 👤 FaceTrack – Real-Time Face Recognition Platform
 - Multi-person face detection and recognition
