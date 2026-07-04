@@ -31,6 +31,6 @@ AI Engineer building production-ready AI applications using Python, FastAPI, Com
 
 📧 Email: **karanshihire1@gmail.com**
 
-💼 LinkedIn:https://www.linkedin.com/in/karan-singh-shihire-5292a5283/
+💼 LinkedIn: https://www.linkedin.com/in/karan-singh-shihire-5292a5283/
 
-🌐 Portfolio:
+🌐 Portfolio: https://www.karanshihire.me/
