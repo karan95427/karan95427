@@ -4,6 +4,15 @@ AI Engineer building production-ready AI applications using Python, FastAPI, Com
 
 ## 🚀 Featured Projects
 
+
+### 🏥 MediAssist AI – Healthcare RAG Assistant
+
+- LoRA fine-tuned Qwen2.5-1.5B for healthcare-specific question answering
+- Hybrid RAG pipeline using FAISS vector search + LLM reasoning
+- Semantic retrieval with Sentence Transformers embeddings
+- Context-aware response generation with citation-based retrieval
+- FastAPI backend with modular, production-ready architecture
+
 ### 📄 CareerLens – AI-Powered Semantic Resume Intelligence
 - Semantic resume parsing and job recommendation engine
 - Transformer embeddings + FAISS vector search
@@ -17,13 +26,6 @@ AI Engineer building production-ready AI applications using Python, FastAPI, Com
 - Attendance logging system
 - Multi-angle face enrollment
 - FastAPI backend
-
-### 🛡️ NetWatch – AI Intrusion Detection System
-- Live network traffic monitoring
-- Isolation Forest anomaly detection
-- Packet capture using Scapy
-- Flask monitoring dashboard
-- Real-time alert generation
 
 ---
 
